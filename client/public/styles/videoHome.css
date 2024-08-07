@@ -1,0 +1,49 @@
+
+.video-container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.video-1);
+    max-width: 400px;
+    width: 100%;
+    text-align: center;
+}
+
+/* Heading Styles */
+h1 {
+    margin-bottom: 20px;
+    color: #333;
+}
+
+/* Slot List Styles */
+.video-slots {
+    list-style-type: none;
+    margin-bottom: 20px;
+}
+
+.video-slots li {
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #555;
+}
+
+/* Slot Number Styles */
+.video-slot-number {
+    font-weight: bold;
+    color: #333;
+}
+
+/* Join Link Styles */
+.video-join-link {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.video-3s ease;
+}
+
+.video-join-link:hover {
+    background-color: #0056b3;
+}
